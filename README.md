@@ -1,3 +1,4 @@
+https://jsonbeautifier.org/
 JSON beutifier is an online tool. it will help to edit JSON formatter online. JSON is used to represent structured data, such as objects, arrays, numbers, strings, booleans, and null values. It provides a way to organize and store data in a format that can be easily understood by both humans and machines.
 
 JSON is not tied to any specific programming language, making it a universal data format that can be used in various programming environments. JSON uses a simple and readable text format, which makes it easy for developers to create and edit JSON data by hand, and it's also easy for humans to interpret.
